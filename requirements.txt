@@ -1,0 +1,4 @@
+numpy
+pymongo
+fire
+tqdm

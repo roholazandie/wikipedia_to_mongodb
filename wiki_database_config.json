@@ -1,0 +1,5 @@
+{
+  "database_name": "wikipedia_test",
+  "collection_name": "article",
+  "dataset_dir": "clean_wiki_text_json"
+}
