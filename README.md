@@ -6,7 +6,7 @@ It is a perfect API for all the applications that need a fast access wikipedia d
 Download the latest wikipedia dump from here:
 https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.xml.bz2
 
-### 4. Install requirements
+### 2. Install requirements
 Install requirements:
 ```
 pip install -r requirements.txt
