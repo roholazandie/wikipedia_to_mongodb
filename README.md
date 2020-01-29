@@ -1,3 +1,5 @@
+![alt text](wikitomongo.jpg)
+
 # Import Wikipedia Text into Mongodb
 In this repository, we try to import all wikipedia articles in a database with a very easy to use acces class.
 It is a perfect API for all the applications that need a fast access wikipedia database.
